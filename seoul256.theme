@@ -1,0 +1,9 @@
+[Scheme]
+Name=seoul256
+ColorForeground=#d0d0d0
+ColorBackground=#121212
+ColorCursor=#d0d0d0
+TabActivityColor=#df5f87
+ColorPalette=#4e4e4e;#d68787;#5f865f;#d8af5f;#85add4;#d7afaf;#87afaf;#d0d0d0;#626262;#d75f87;#87af87;#ffd787;#add4fb;#ffafaf;#87d7d7;#e4e4e4
+ColorBold=#e4e4e4
+ColorBoldUseDefault=FALSE
