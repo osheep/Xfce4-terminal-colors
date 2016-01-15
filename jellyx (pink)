@@ -1,0 +1,9 @@
+[Scheme]
+Name=JellyX (dark)
+ColorForeground=#a8a8a8
+ColorBackground=#000000
+ColorCursor=#d787af
+TabActivityColor=#d787af
+ColorPalette=#000000;#d75f5f;#00af87;#afd75f;#5fafd7;#8787af;#00afd7;#ffffff;#0a0a0a;#d787af;#5faf5f;#d7af5f;#87afd7;#8787d7;#87afff;#ffffff
+ColorBold=#5fafd7
+ColorBoldUseDefault=FALSE
