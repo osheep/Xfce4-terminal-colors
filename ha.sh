@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Check root
-if[ ${EUID} -eq 0 ]; then
+if [[ ${EUID} -eq 0 ]]; then
   echo "Is root."
 else
   echo "Not root, this script must be run as root"
